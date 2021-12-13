@@ -1,4 +1,4 @@
-from .finding_root import *
+from .problems import *
 
 
 __all__ = [
